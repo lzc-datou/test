@@ -1,2 +1,2 @@
 import math
-a = 
+a = 1
