@@ -1,2 +1,2 @@
-import math
-a = 1
+import maths
+a = 2
